@@ -1,6 +1,5 @@
-# AirFlow Duino
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+AirFlow Duino
+====
 
 This project uses an Arduino to power on an exhaust fan when a PIR sensor detects movements.
 
@@ -11,3 +10,4 @@ I created this project to install on my cat's sandbox.
 
 ![Imagem 2](img-2.jpg)
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
