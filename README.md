@@ -1,6 +1,3 @@
-AirFlow Duino
-====
-
 This project uses an Arduino to power on an exhaust fan when a PIR sensor detects movements.
 
 I created this project to install on my cat's sandbox.
